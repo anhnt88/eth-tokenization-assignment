@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20Detailed.sol";
 import "./ERC20Mintable.sol";
 
 contract MyToken is ERC20Mintable, ERC20Detailed {
-    constructor() ERC20Detailed("Tài mà Token", "TAIMA", 0) public {
+    constructor() ERC20Detailed("TMS Token", "TMS", 0) public {
         // _mint(msg.sender, initialSupply);
     }
 }
