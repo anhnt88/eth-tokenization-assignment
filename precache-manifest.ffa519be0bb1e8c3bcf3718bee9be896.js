@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d36f8c3c26571914f9170c6da83bb60a",
+    "revision": "8896165d21948c827bced9d03730a040",
     "url": "/eth-tokenization-assignment/index.html"
   },
   {
-    "revision": "f3eb648624cc59ccae1a",
+    "revision": "dfc1982e9ef5b592b25d",
     "url": "/eth-tokenization-assignment/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eth-tokenization-assignment/static/js/2.489852ba.chunk.js"
   },
   {
-    "revision": "f3eb648624cc59ccae1a",
-    "url": "/eth-tokenization-assignment/static/js/main.7def87cf.chunk.js"
+    "revision": "dfc1982e9ef5b592b25d",
+    "url": "/eth-tokenization-assignment/static/js/main.dd3254a6.chunk.js"
   },
   {
     "revision": "163a79fd1134a7716e0c",
